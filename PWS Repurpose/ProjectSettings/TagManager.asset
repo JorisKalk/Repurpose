@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - deathZone
+  - Checkpoint
+  - water
+  - waterCondition
+  - pushableBox
+  - breakable
+  - leftTrigger
+  - rightTrigger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Underwater
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 539523605
+    locked: 0
+  - name: Background 1.5
+    uniqueID: 1762491339
+    locked: 0
+  - name: Background 2
+    uniqueID: 2696001441
+    locked: 0
+  - name: Background decorations
+    uniqueID: 1350062663
+    locked: 0
+  - name: Terrain (non collider)
+    uniqueID: 835185985
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Terrain
+    uniqueID: 2900208241
+    locked: 0
+  - name: Terrain decorations
+    uniqueID: 1035583761
+    locked: 0
+  - name: Deathzone
+    uniqueID: 993715741
+    locked: 0
+  - name: Water
+    uniqueID: 2309371993
+    locked: 0
